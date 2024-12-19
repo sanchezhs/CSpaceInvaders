@@ -1,6 +1,10 @@
 # CSpaceInvaders
 Space Invaders implementation in C using Raylib, a simple and powerful library to handle graphics, input, and audio in games.
 
+## Examples
+![fig1](examples/fig1.png)
+![fig2](examples/fig2.png)
+
 ## Features
 - Classic Space Invaders gameplay.
 - Player-controlled spaceship to shoot down enemy invaders.
